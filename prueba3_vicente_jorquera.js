@@ -264,6 +264,7 @@ var codigoDelAlumno1 = db.Cursa.find(
 
 
 // En esta variable me da el error "Cannot compare to undefined", el cual no tengo idea por qué da, y que cuando imprimo codigoDelAlumno1 por consola me retorna esto: [ 2 ], así que no sé que pasa :/
+// Además que debería hacerlo que recorra el arreglo en lugar de poner 0, 1, 2 pero se me olvidó como :/
 var nombreDeLasAlumnas = db.Alumno.find(
     {
         sexo: 'F',
