@@ -1,0 +1,17 @@
+[
+    {
+        "codigoCompra": 1,
+        "codigoProducto": 1,
+        "cantidad": 26
+    },
+    {
+        "codigoCompra": 2,
+        "codigoProducto": 2,
+        "cantidad": 3
+    },
+    {
+        "codigoCompra": 3,
+        "codigoProducto": 3,
+        "cantidad": 1
+    }
+]

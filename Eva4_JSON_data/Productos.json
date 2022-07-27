@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Samsung Galaxy Tab S8",
+        "precio": 459990,
+        "rut_proveedor": "12345667-8"
+    },
+    {
+        "codigo": 2,
+        "nombre": "Apple iPhone 13 PRO VERDE",
+        "precio": 759990,
+        "rut_proveedor": "23456778-1"
+    },
+    {
+        "codigo": 3,
+        "nombre": "DELL XPS 17 LINUX EDITION (INTEL)",
+        "precio": 1749990,
+        "rut_proveedor": "34567789-3"
+    }
+]

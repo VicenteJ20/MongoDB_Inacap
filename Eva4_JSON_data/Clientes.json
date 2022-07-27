@@ -1,0 +1,23 @@
+[
+    {
+        "rut": "12345678-7",
+        "nombre": "Elisa",
+        "apellidos": "Prettier Json",
+        "direccion": "7597 Calle de Arturo Soria, Ceuta, Palma de Mallorca",
+        "fechaNacimiento": "2002-05-22"
+    },
+    {
+        "rut": "12345678-8",
+        "nombre": "Ángel",
+        "apellidos": "Sanz Cataluña",
+        "direccion": "3340 Calle de Toledo, Galicia, Vitoria",
+        "fechaNacimiento": "1986-02-27"
+    },
+    {
+        "rut": "12345678-9",
+        "nombre": "Hernesto",
+        "apellidos": "Fernández Blanco",
+        "direccion": "4187 Calle de Téllez, Melilla, Albacete",
+        "fechaNacimiento": "1988-11-3"
+    }
+]

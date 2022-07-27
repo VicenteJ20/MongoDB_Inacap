@@ -1,0 +1,17 @@
+[
+    {
+        "codigo": 1,
+        "rutCliente": "12345678-7",
+        "total": 11959740
+    },
+    {
+        "codigo": 2,
+        "rutCliente": "12345678-8",
+        "total": 2279970
+    },
+    {
+        "codigo": 3,
+        "rutCliente": "12345678-9",
+        "total": 1749990
+    }
+]

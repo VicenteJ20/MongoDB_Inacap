@@ -1,0 +1,17 @@
+[
+    {
+        "rut": "12345667-8",
+        "nombre": "Proveedor 1 SPA",
+        "direccion": "Curico 1046"
+    },
+    {
+        "rut": "23456778-1",
+        "nombre": "Proveedor 2 LTDA",
+        "direccion": "Talca Oriente 9910"
+    },
+    {
+        "rut": "34567789-3",
+        "nombre": "Proveedor 3 ASC",
+        "direccion": "Molina 1610"
+    }
+]
